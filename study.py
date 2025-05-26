@@ -98,7 +98,26 @@
 # cap = name.title()
 # print(cap)
 
+### Section: Split users name into first and last
+# full_name = "aloha jean"
+# first, last = full_name.split(" ")
+# print(first)
+# print(last)
 
+### Section: Join : concatenates elements (list, tuple, set) into a single string using a separator
+# user_input = input()
+# playback = user_input.split()
+# print("...".join(playback))
+
+
+### Section: Replace replaces all occurrences of a substring with a new one
+# text = "hello world"
+# new_text = text.replace(" ", "...")
+# print(new_text)
+
+### Section:
+### Section:
+### Section:
 ### Section:
 ### Section:
 ### Section:
